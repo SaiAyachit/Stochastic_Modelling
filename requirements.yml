@@ -1,7 +1,9 @@
 name: stochastic_modelling
+#run: conda env update --file requirements.yml
 
 dependencies:
   - python=3.12
   - ipython
   - numpy
   - matplotlib
+  - pandas
