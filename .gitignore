@@ -1,3 +1,7 @@
+Modelling_data/*
+processed_data/*
+analysis_Martin_data.py
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
